@@ -1,2 +1,0 @@
-# radenukom
-materi_ukom
